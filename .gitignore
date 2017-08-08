@@ -1,0 +1,11 @@
+Alte*
+Deckblatt/*.pdf
+Deckblatt/*.png
+Fertige Noten/*
+Kritischer Bericht/*.pdf
+*.kilepr
+*.zip
+*.pdf
+*.mid
+*.midi
+*.eps
